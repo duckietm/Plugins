@@ -9,7 +9,7 @@
 - [x] Prevent exploits on thumbnails, not just photos.
 - [x] No more FTP (no one used that).
 
-[Download the latest compiled version here!](https://git.krews.org/duckietm/habbocamera/-/blob/main/Compiled/Camera-1.6.jar)
+[Download the latest compiled version here!](https://github.com/duckietm/Plugins/blob/main/Camera%20Plugin/Compiled/Camera-1.6.jar)
 
 ## Informations
 All missing settings in the database will be created with this plugin after the first launch of your emulator.
