@@ -1,0 +1,5 @@
+com\furnibuilder\wordguesser\WordGuesser.class
+com\furnibuilder\wordguesser\WordScheduler.class
+com\furnibuilder\wordguesser\commands\RandomWordCommand.class
+com\furnibuilder\wordguesser\commands\UpdateWordsCommand.class
+com\furnibuilder\wordguesser\WordManager.class
